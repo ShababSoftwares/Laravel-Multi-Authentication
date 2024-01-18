@@ -2,6 +2,10 @@
     "name": "shababsoftwares/laravel-multi-authentication",
     "type": "project",
     "description": "This is a simple laravel project using Mutliple Authentication.",
+    "authors": [{
+        "name": "Muhammad Arif Shabab",
+        "email": "shabab.softwares@gmail.com"
+    }],
     "keywords": [
         "framework",
         "laravel"
@@ -58,5 +62,6 @@
         "post-create-project-cmd": [
             "@php artisan key:generate --ansi"
         ]
-    }
+    },
+    "minimum-stability": "stable"
 }
