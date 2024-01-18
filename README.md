@@ -8,7 +8,6 @@ Just Download and run
 
     - setup database in .env file
     - import multiple-auth-db.sql file into database, File Located under database/multiple-auth-db.sql
-    - 
 
 ## How to RUN
 
