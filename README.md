@@ -3,7 +3,7 @@
 [![Downloads](https://poser.pugx.org/ShababSoftwares/laravel-version/d/total.svg)](https://github.com/ShababSoftwares/Laravel-Multi-Authentication)
 [![License](https://poser.pugx.org/ShababSoftwares/Laravel-Multi-Authentication/license.svg)](LICENSE.md)
 
-This is simple Laravel Project to enable Multiple Authentication, you can you following 3 different Urls to use Logins from 3 different Tables.
+This is simple Laravel Project to enable Multiple Authentication, you can use following 3 different Urls to use Logins from 3 different Tables.
 
 ## How to Use it
 
@@ -25,35 +25,35 @@ run following commands
 
 ## How to Access Login and Register Pages
 
-    http://localhost:8000/login
-    http://localhost:8000/register
+`http://localhost:8000/login`
+`http://localhost:8000/register`
 
-    Login Details:
+Login Details:
 
-    Email - user@multiauth.com
-    Pass: - Abc12345
+Email - user@multiauth.com
+Pass: - Abc12345
 
-    Email - user2@multiauth.com
-    Pass: - Abc12345
+Email - user2@multiauth.com
+Pass: - Abc12345
 
-    http://localhost:8000/login/admin
-    http://localhost:8000/register/admin
+`http://localhost:8000/login/admin`
+`http://localhost:8000/register/admin`
 
-    Login Details:
+Login Details:
 
-    Email - admin@multiauth.com
-    Pass: - Abc12345
+Email - admin@multiauth.com
+Pass: - Abc12345
 
-    http://localhost:8000/login/client
-    http://localhost:8000/register/client
+`http://localhost:8000/login/client`
+`http://localhost:8000/register/client`
 
-    Login Details:
+Login Details:
 
-    Email - client@multiauth.com
-    Pass: - Abc12345
+Email - client@multiauth.com
+Pass: - Abc12345
 
-    Email - client2@multiauth.com
-    Pass: - Abc12345
+Email - client2@multiauth.com
+Pass: - Abc12345
 
 ## License
 
