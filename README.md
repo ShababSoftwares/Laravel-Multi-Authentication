@@ -20,6 +20,8 @@ run following commands
     php artisan serve
 ```
 
+## How to Access Login and Register Pages
+
     http://localhost:8000/login
     http://localhost:8000/register
 
