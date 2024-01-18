@@ -6,21 +6,6 @@
         "name": "Muhammad Arif Shabab",
         "email": "shabab.softwares@gmail.com"
     }],
-    "repositories": [
-        {
-          "type": "project",
-          "package": {
-            "name": "shababsoftwares/laravel-multi-authentication",
-            "version": "1.0.0",
-            "type": "laravel-multi-auth",
-            "source": {
-              "url": "https://github.com/ShababSoftwares/Laravel-Multi-Authentication.git",
-              "type": "git",
-              "reference": "main"
-            }
-          }
-        }
-      ],
     "keywords": [
         "framework",
         "laravel",
