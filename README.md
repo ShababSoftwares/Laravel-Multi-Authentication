@@ -26,6 +26,7 @@ run following commands
 ## How to Access Login and Register Pages
 
 `http://localhost:8000/login`
+
 `http://localhost:8000/register`
 
 Login Details:
@@ -37,6 +38,7 @@ Email - user2@multiauth.com
 Pass: - Abc12345
 
 `http://localhost:8000/login/admin`
+
 `http://localhost:8000/register/admin`
 
 Login Details:
@@ -45,6 +47,7 @@ Email - admin@multiauth.com
 Pass: - Abc12345
 
 `http://localhost:8000/login/client`
+
 `http://localhost:8000/register/client`
 
 Login Details:
