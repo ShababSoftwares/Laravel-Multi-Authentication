@@ -1,7 +1,7 @@
 # Multiple Authentication
 
 [![Downloads](https://poser.pugx.org/pugx/badge-poser/d/total.svg)](https://packagist.org/packages/shababsoftwares/laravel-multi-authentication)
-[![License](https://poser.pugx.org/pugx/badge-poser/license.svg)](LICENSE.md)
+[![License](https://poser.pugx.org/shababsoftwares/laravel-multi-authentication/license.svg)](LICENSE.md)
 
 This is simple Laravel Project to enable Multiple Authentication, you can use following 3 different Urls to use Logins from 3 different Tables.
 
