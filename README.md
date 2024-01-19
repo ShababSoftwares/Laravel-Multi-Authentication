@@ -9,6 +9,10 @@ This is simple Laravel Project to enable Multiple Authentication, you can use fo
 
 Just Download and run 
 
+```bash
+composer create-project shababsoftwares/laravel-multi-authentication
+```
+
 setup database in .env file
 import multiple-auth-db.sql file into database, File Located under 'database/multiple-auth-db.sql'
     
