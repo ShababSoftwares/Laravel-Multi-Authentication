@@ -1,5 +1,5 @@
 # Multiple Authentication
-[![Github All Releases Downloads](https://img.shields.io/github/downloads/shababsoftwares/laravel-multi-authentication/total.svg)]()
+[![Github All Releases Downloads](https://img.shields.io/github/downloads/shababsoftwares/laravel-multi-authentication/total.svg)](https://github.com/shababsoftwares/laravel-multi-authentication)
 [![Downloads](https://poser.pugx.org/shababsoftwares/laravel-multi-authentication/d/total.svg)](https://github.com/shababsoftwares/laravel-multi-authentication)
 [![License](https://poser.pugx.org/shababsoftwares/laravel-multi-authentication/license.svg)](LICENSE.md)
 
